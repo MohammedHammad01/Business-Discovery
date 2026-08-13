@@ -1,0 +1,17 @@
+Follow-up call - Northwind Facilities Ltd
+Date: 11 March 2026
+Attendees: Anita Rao (Operations Manager), Ravi Menon (Site Supervisor), Dev Patel (Consultant)
+
+[00:00:08] Dev Patel: Ravi, you raise the requests. What's the experience from your side?
+[00:00:15] Ravi Menon: Honestly it's guesswork. I send the email and then I don't know anything until someone tells me. I usually ring Anita after two days.
+[00:00:38] Dev Patel: What information do you have when you raise it?
+[00:00:43] Ravi Menon: The part or service, which site it's for, roughly what it costs, and when I need it by. Sometimes I have a quote attached, sometimes I don't yet.
+[00:01:15] Anita Rao: That's the other issue - half of them arrive without a price, so I can't route them to the right approver until I chase for it.
+[00:01:35] Dev Patel: Would a required field fix that?
+[00:01:39] Ravi Menon: As long as I can put an estimate. If I have to wait for a formal quote to raise it at all, I'll just go back to phoning.
+[00:02:04] Dev Patel: What about urgency?
+[00:02:08] Ravi Menon: Some are emergencies - a boiler is down, the site can't operate. Those I phone through and Anita pushes them along manually. It'd be good if the system knew the difference.
+[00:02:45] Anita Rao: We've never agreed a formal target though. Sam once said two days but it's not written anywhere.
+[00:03:12] Dev Patel: Who else touches the process?
+[00:03:16] Anita Rao: Just the three of us plus the director for the big ones. There are about twelve supervisors raising requests.
+[00:03:40] Ravi Menon: One thing I'd ask for - tell me when it's approved. I don't need a report, I just need to know I can order the part.

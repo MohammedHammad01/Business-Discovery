@@ -1,0 +1,73 @@
+# ---------------------------------------------------------------------------
+# Secrets  --  never commit a real key. .env.example is the committed template.
+# ---------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# SQLite databases created at runtime
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# ---------------------------------------------------------------------------
+# Node / frontend
+# ---------------------------------------------------------------------------
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.tsbuildinfo
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.eslintcache
+
+# ---------------------------------------------------------------------------
+# Generated sample fixtures
+# Regenerate with: python sample_data/generate_binary_samples.py
+# (Delete these two lines if you would rather ship the binaries with the repo.)
+# ---------------------------------------------------------------------------
+sample_data/current-process.pdf
+sample_data/current-app.png
+
+# ---------------------------------------------------------------------------
+# Uploaded / working files
+# ---------------------------------------------------------------------------
+uploads/
+tmp/
+*.log
+
+# ---------------------------------------------------------------------------
+# Editors / OS
+# ---------------------------------------------------------------------------
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini

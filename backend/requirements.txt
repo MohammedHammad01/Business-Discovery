@@ -1,0 +1,19 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+pydantic-settings>=2.3
+SQLAlchemy>=2.0
+python-multipart>=0.0.9
+python-dotenv>=1.0
+httpx>=0.27
+beautifulsoup4>=4.12
+google-genai>=1.0
+
+# Document extraction (optional at runtime -- imported lazily).
+# If a wheel is unavailable for your interpreter, the matching adapter
+# reports a clean "extractor unavailable" error instead of crashing the app.
+PyMuPDF>=1.24
+python-docx>=1.1
+
+# Tests
+pytest>=8.0

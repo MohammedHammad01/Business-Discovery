@@ -1,0 +1,20 @@
+Discovery call - Northwind Facilities Ltd
+Date: 4 March 2026
+Attendees: Anita Rao (Operations Manager, Northwind), Sam Fisher (Finance), Dev Patel (Consultant)
+
+[00:00:12] Dev Patel: Thanks for the time. Can you walk me through how a purchase request works today, from the moment someone needs something?
+[00:00:31] Anita Rao: Sure. A site supervisor emails me with what they need. Sometimes it's a WhatsApp message, sometimes a photo of a handwritten note. There's no standard form, so I usually have to go back and ask what it's for and how much it costs.
+[00:01:05] Dev Patel: How many of those do you handle in a week?
+[00:01:11] Anita Rao: Around forty. It spikes at month end.
+[00:01:20] Dev Patel: And then what happens?
+[00:01:24] Anita Rao: I copy the details into a shared spreadsheet on the drive. Then I forward it to whoever needs to approve it. Under five hundred pounds it's me. Above that it goes to Sam in finance, and above five thousand it needs the director.
+[00:02:02] Sam Fisher: The problem is I only find out something is waiting for me when Anita chases me. There's no queue, it just sits in my inbox with everything else. I've had requests sit for four days because they scrolled off the first screen.
+[00:02:30] Dev Patel: What does that cost you?
+[00:02:34] Anita Rao: Site work stops. Last month we had a team idle for two days waiting on a part that had been approved but nobody told the supervisor. The approval happened in email and never made it back to the spreadsheet.
+[00:03:10] Sam Fisher: And I get asked for an audit trail every quarter. Right now that means me searching my mailbox and pasting screenshots into a document. It takes me most of a day.
+[00:03:40] Dev Patel: If I gave you one thing, what would it be?
+[00:03:45] Anita Rao: One place where I can see every request and its status without asking anyone. The supervisors should be able to see it too, so they stop calling me.
+[00:04:02] Sam Fisher: For me, a list of what's waiting on my decision, oldest first. And I want to record why I rejected something, because right now the reason lives in an email nobody can find.
+[00:04:35] Dev Patel: Does anything need to go back into another system?
+[00:04:40] Sam Fisher: Eventually the approved ones get keyed into Sage, but I'd keep that manual for now.
+[00:05:01] Anita Rao: One more thing - we need to keep the spreadsheet working during any transition. I can't switch everyone over in one weekend.
