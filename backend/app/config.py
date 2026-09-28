@@ -1,9 +1,7 @@
 """Application settings. Secrets come from the environment / .env only."""
 
 from functools import lru_cache
-
 from pydantic_settings import BaseSettings, SettingsConfigDict
-
 
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
@@ -23,7 +21,7 @@ class Settings(BaseSettings):
 
     # When no API key is configured the Discovery Agent falls back to a
     # deterministic mock so the end-to-end flow (and the test suite) still runs.
-    allow_mock_llm: bool = True
+    allow_mock_llm: bool = True so we can use without llm also
 
     # --- Storage ----------------------------------------------------------
     database_url: str = "sqlite:///./app.db"
