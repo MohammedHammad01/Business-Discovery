@@ -1,4 +1,4 @@
-"""FastAPI entry point."""
+"""FastAPI entry point for my business dicovery agent."""
 
 from __future__ import annotations
 
